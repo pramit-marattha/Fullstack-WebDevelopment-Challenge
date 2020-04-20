@@ -24,3 +24,7 @@ Visit ==> [pramit-grocery-store.netlify.app](https://pramit-grocery-store.netlif
 
 #
 #
+### Todo App Django  
+Visit ==> [pramitman.pythonanywhere.com](http://pramitman.pythonanywhere.com/)
+#
+![todo](https://user-images.githubusercontent.com/37651620/79040418-16a95480-7c08-11ea-8c5f-d60a90ee2082.png)
