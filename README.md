@@ -27,4 +27,11 @@ Visit ==> [pramit-grocery-store.netlify.app](https://pramit-grocery-store.netlif
 ### Todo App Django  
 Visit ==> [pramitman.pythonanywhere.com](http://pramitman.pythonanywhere.com/)
 #
-![todo](https://user-images.githubusercontent.com/37651620/79040418-16a95480-7c08-11ea-8c5f-d60a90ee2082.png)
+![Todo_app](https://user-images.githubusercontent.com/37651620/79892234-f2c4ea80-8421-11ea-83ab-db048c6e1554.gif)
+
+#
+#
+### Stock Market Real Time (Crude Oil and Petroleum Product live Market watch)  
+Visit ==> [pramit-oil-market.netlify.app](https://pramit-oil-market.netlify.app/)
+#
+![oil_market](https://user-images.githubusercontent.com/37651620/79891451-b93faf80-8420-11ea-913c-dd65d9a62eb2.gif)
