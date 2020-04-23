@@ -35,3 +35,15 @@ Visit ==> [pramitman.pythonanywhere.com](http://pramitman.pythonanywhere.com/)
 Visit ==> [pramit-oil-market.netlify.app](https://pramit-oil-market.netlify.app/)
 #
 ![oil_market](https://user-images.githubusercontent.com/37651620/79891451-b93faf80-8420-11ea-913c-dd65d9a62eb2.gif)
+#
+#
+### Rick And Morty
+Visit ==> [pramit-marattha.github.io/portalrick/](https://pramit-marattha.github.io/portalrick/)
+#
+![RickAndMorty](https://user-images.githubusercontent.com/37651620/80062565-c8734a00-8553-11ea-9435-b36808f69568.gif)
+#
+#
+### Real Time Weather.
+Visit ==> [pramit-weather.netlify.app](https://pramit-weather.netlify.app/)
+#
+![weather](https://user-images.githubusercontent.com/37651620/80062556-c610f000-8553-11ea-9bef-431fcf998eb3.gif)
